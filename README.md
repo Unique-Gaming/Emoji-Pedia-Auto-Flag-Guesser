@@ -18,7 +18,7 @@ A powerful JavaScript-based console tool that automatically detects and guesses 
 
 1. Open https://emojipedia.org/emoji-playground/guess-the-flag/leaderboard 
 2. Press **F12** (or right-click → Inspect) to open the Developer Console.  
-3. __Paste the full JavaScript code From auto-flag-guesser.js__ and press **Enter**.  
+3. __Paste the full JavaScript code From auto-flag-guesser.txt__ and press **Enter**.  
 4. Enter your nickname (**exactly 3 capital letters**, e.g., `UNQ`).  
 5. Watch the script play automatically and score high!
 6. Refresh Page To Update Leaderboard 
